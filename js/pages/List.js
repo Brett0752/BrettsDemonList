@@ -103,7 +103,7 @@ export default {
                         These are the top 50 demons that Brett has completed in Geometry Dash
                     </p>
                     <p>
-                        ______________________________
+                        ________________________________
                     </p>
                     <p>
                         Changelog:
