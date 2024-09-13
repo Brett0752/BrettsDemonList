@@ -103,7 +103,7 @@ export default {
                         These are the top 50 demons that Brett has completed in Geometry Dash
                     </p>
                     <p>
-                        a has been moved to a
+                        Death Note #43 -> #47
                     </p>
                 </div>
             </div>
