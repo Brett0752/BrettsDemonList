@@ -101,7 +101,8 @@ export default {
                     <h3>Top 50</h3>
                     <p>
                         These are the top 50 demons that Brett has completed in Geometry Dash
-                        
+                    </p>
+                    <p>
                         a has been moved to a
                     </p>
                 </div>
