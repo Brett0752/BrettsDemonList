@@ -111,6 +111,9 @@ export default {
                     <p>
                         Death Note #43 -> #46
                     </p>
+                    <p>
+                        Niwa #17 -> #24
+                    </p>
                 </div>
             </div>
         </main>
