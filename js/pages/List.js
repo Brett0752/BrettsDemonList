@@ -115,7 +115,7 @@ export default {
                         Niwa #17 -> #24
                     </p>
                     <p>
-                        Auditory Breaker #N/A -> #2
+                        Auditory Breaker #2
                     </p>
                 </div>
             </div>
