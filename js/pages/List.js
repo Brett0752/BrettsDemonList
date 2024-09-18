@@ -117,6 +117,9 @@ export default {
                     <p>
                         Auditory Breaker #N/A -> #2
                     </p>
+                    <p>
+                        Black Blizzard #N/A -> #2
+                    </p>
                 </div>
             </div>
         </main>
