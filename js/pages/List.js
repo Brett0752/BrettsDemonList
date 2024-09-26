@@ -120,6 +120,9 @@ export default {
                     <p>
                         Black Blizzard #N/A -> #2
                     </p>
+                    <p>
+                        Ruler Of Everything #N/A -> #5
+                    </p>
                 </div>
             </div>
         </main>
