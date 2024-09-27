@@ -123,6 +123,9 @@ export default {
                     <p>
                         Ruler Of Everything #N/A -> #5
                     </p>
+                    <p>
+                        Robi #N/A -> #34
+                    </p>
                 </div>
             </div>
         </main>
