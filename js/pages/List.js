@@ -129,6 +129,9 @@ export default {
                     <p>
                         9blue #N/A -> #39
                     </p>
+                    <p>
+                        NecropoliX #N/A -> #28
+                    </p>
                 </div>
             </div>
         </main>
