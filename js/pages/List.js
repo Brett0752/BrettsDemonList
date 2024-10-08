@@ -132,6 +132,9 @@ export default {
                     <p>
                         NecropoliX #N/A -> #28
                     </p>
+                    <p>
+                        Misty Mountains #N/A -> #39
+                    </p>
                 </div>
             </div>
         </main>
