@@ -135,6 +135,9 @@ export default {
                     <p>
                         Misty Mountains #N/A -> #39
                     </p>
+                    <p>
+                        Leyak #N/A -> #46
+                    </p>
                 </div>
             </div>
         </main>
