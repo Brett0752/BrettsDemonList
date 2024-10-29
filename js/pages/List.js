@@ -138,6 +138,9 @@ export default {
                     <p>
                         Leyak #N/A -> #46
                     </p>
+                    <p>
+                        Ragnarok #N/A -> #1
+                    </p>
                 </div>
             </div>
         </main>
