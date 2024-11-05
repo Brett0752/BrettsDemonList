@@ -141,6 +141,9 @@ export default {
                     <p>
                         Ragnarok #N/A -> #1
                     </p>
+                    <p>
+                        Make It Drop #N/A -> #39
+                    </p>
                 </div>
             </div>
         </main>
