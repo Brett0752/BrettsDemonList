@@ -144,6 +144,9 @@ export default {
                     <p>
                         Make It Drop #N/A -> #39
                     </p>
+                    <p>
+                        Polish Alphabet #N/A -> #39
+                    </p>
                 </div>
             </div>
         </main>
