@@ -150,6 +150,9 @@ export default {
                     <p>
                         Meow #N/A -> #43
                     </p>
+                    <p>
+                        Sweater Weather #N/A -> #48
+                    </p>
                 </div>
             </div>
         </main>
