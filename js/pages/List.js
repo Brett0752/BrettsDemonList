@@ -153,6 +153,9 @@ export default {
                     <p>
                         Sweater Weather #N/A -> #48
                     </p>
+                    <p>
+                        Kuzureta #N/A -> #3
+                    </p>
                 </div>
             </div>
         </main>
