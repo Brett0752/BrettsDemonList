@@ -156,6 +156,9 @@ export default {
                     <p>
                         Kuzureta #N/A -> #3
                     </p>
+                    <p>
+                        Eko #N/A -> #14
+                    </p>
                 </div>
             </div>
         </main>
