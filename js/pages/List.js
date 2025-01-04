@@ -159,6 +159,9 @@ export default {
                     <p>
                         Eko #N/A -> #14
                     </p>
+                    <p>
+                        Aftermath #N/A -> #18
+                    </p>
                 </div>
             </div>
         </main>
