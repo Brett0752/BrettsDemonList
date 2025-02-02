@@ -162,6 +162,9 @@ export default {
                     <p>
                         Aftermath #N/A -> #18
                     </p>
+                    <p>
+                        Clarity #N/A -> #32
+                    </p>
                 </div>
             </div>
         </main>
