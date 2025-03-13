@@ -168,6 +168,9 @@ export default {
                     <p>
                         Zettabyte #N/A -> #33
                     </p>
+                    <p>
+                        La Llorona #16 -> #25
+                    </p>
                 </div>
             </div>
         </main>
