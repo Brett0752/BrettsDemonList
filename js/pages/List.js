@@ -169,10 +169,10 @@ export default {
                         Zettabyte #N/A -> #33
                     </p>
                     <p>
-                        La Llorona #16 -> #25
+                        La Llorona #16 -> #24
                     </p>
                     <p>
-                        Cupid #15 -> #19
+                        Cupid #15 -> #18
                     </p>
                 </div>
             </div>
