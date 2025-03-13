@@ -171,6 +171,9 @@ export default {
                     <p>
                         La Llorona #16 -> #25
                     </p>
+                    <p>
+                        Cupid #15 -> #19
+                    </p>
                 </div>
             </div>
         </main>
