@@ -165,6 +165,9 @@ export default {
                     <p>
                         Clarity #N/A -> #32
                     </p>
+                    <p>
+                        Zettabyte #N/A -> #33
+                    </p>
                 </div>
             </div>
         </main>
