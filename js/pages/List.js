@@ -174,6 +174,9 @@ export default {
                     <p>
                         Cupid #15 -> #18
                     </p>
+                    <p>
+                        Broken Signal #N/A -> #34 
+                    </p>
                 </div>
             </div>
         </main>
