@@ -180,6 +180,9 @@ export default {
                     <p>
                         Volume #N/A -> #46
                     </p>
+                    <p>
+                        Stalemate Redux #N/A -> #4
+                    </p>
                 </div>
             </div>
         </main>
