@@ -183,6 +183,9 @@ export default {
                     <p>
                         Stalemate Redux #N/A -> #4
                     </p>
+                    <p>
+                        Hot Rod #N/A -> #6
+                    </p>
                 </div>
             </div>
         </main>
