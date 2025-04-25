@@ -186,6 +186,9 @@ export default {
                     <p>
                         Hot Rod #N/A -> #6
                     </p>
+                    <p>
+                        Shurima #N/A -> #37
+                    </p>
                 </div>
             </div>
         </main>
