@@ -189,6 +189,9 @@ export default {
                     <p>
                         Shurima #N/A -> #37
                     </p>
+                    <p>
+                        Budding Roses #N/A -> #5
+                    </p>
                 </div>
             </div>
         </main>
