@@ -192,6 +192,9 @@ export default {
                     <p>
                         Budding Roses #N/A -> #5
                     </p>
+                    <p>
+                        Pixelsonic #N/A -> #38
+                    </p>
                 </div>
             </div>
         </main>
