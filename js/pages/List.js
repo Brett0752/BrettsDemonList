@@ -198,6 +198,9 @@ export default {
                     <p>
                         Maddening #N/A -> #13
                     </p>
+                    <p>
+                        Digital Descent #N/A -> #5
+                    </p>
                 </div>
             </div>
         </main>
