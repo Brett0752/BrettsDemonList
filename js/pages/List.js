@@ -201,6 +201,9 @@ export default {
                     <p>
                         Digital Descent #N/A -> #5
                     </p>
+                    <p>
+                        Sink #N/A -> #3
+                    </p>
                 </div>
             </div>
         </main>
