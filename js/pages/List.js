@@ -210,6 +210,9 @@ export default {
                     <p>
                         Feel Alive #N/A -> #31
                     </p>
+                    <p>
+                        Misfire #N/A -> #9
+                    </p>
                 </div>
             </div>
         </main>
