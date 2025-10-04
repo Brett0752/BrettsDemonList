@@ -213,6 +213,9 @@ export default {
                     <p>
                         Misfire #N/A -> #9
                     </p>
+                    <p>
+                        Gravity #N/A -> #15
+                    </p>
                 </div>
             </div>
         </main>
