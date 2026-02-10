@@ -216,6 +216,9 @@ export default {
                     <p>
                         Gravity #N/A -> #15
                     </p>
+                    <p>
+                        Eternal Dreams #N/A -> #45
+                    </p>
                 </div>
             </div>
         </main>
