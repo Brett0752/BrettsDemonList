@@ -219,6 +219,9 @@ export default {
                     <p>
                         Eternal Dreams #N/A -> #45
                     </p>
+                    <p>
+                        Steel Terrors #N/A -> #41
+                    </p>
                 </div>
             </div>
         </main>
