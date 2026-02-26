@@ -222,6 +222,9 @@ export default {
                     <p>
                         Steel Terrors #N/A -> #41
                     </p>
+                    <p>
+                        Psychotic #N/A -> #25
+                    </p>
                 </div>
             </div>
         </main>
