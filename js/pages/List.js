@@ -225,6 +225,9 @@ export default {
                     <p>
                         Psychotic #N/A -> #25
                     </p>
+                    <p>
+                        Boogie #N/A -> #6
+                    </p>
                 </div>
             </div>
         </main>
