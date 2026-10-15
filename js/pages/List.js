@@ -228,6 +228,9 @@ export default {
                     <p>
                         Boogie #N/A -> #6
                     </p>
+                    <p>
+                        Wasureta #N/A -> #3
+                    </p>
                 </div>
             </div>
         </main>
